@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aschirma
 - 👀 I’m interested in finance & mathematics
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently learning to code C++, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
